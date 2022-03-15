@@ -2,3 +2,9 @@
 
 *.xml
 *.iml
+
+public
+
+.firebaserc
+.firebase
+firebase.json
